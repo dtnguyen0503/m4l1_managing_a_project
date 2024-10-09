@@ -1,2 +1,17 @@
 # Exercise: Managing a project in GitHub
 # Replace the content of the file with the contents specified in the exercise.
+
+# Content added:
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
